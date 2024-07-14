@@ -3,7 +3,7 @@
 #EXTINF:-1,Telefe 1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1,Telefe 2
-https://telefe.paramount.tech/h/2.Qa1WglC0OdB1Ly1EgAvUi4xQ__BYW6mCFrzObQiko1tKf0_1AH2vgF8Iso7gnvDtlLYQWk_E5OTlKvCdamsHyjqqiIMEPiir8VW0w0NeIqkKjFEFGC_XZZo_B2tnSk30tLlvS-byLhBjTaaeA7UhJSKbrDjMukA4seaEGJvBclPrQTle5sgVSmVEgwve4YUIAurlPQ_8tdGP5J6Mtn_wY_LsIGyy2rEkjk-SqUpcLMKwlmj8bxxwWgzYLEomtcSFYFZH2Qbd3X66ZF0tbbvKpnY1yz9Ymffwh-o/hdntl=exp=1721066477~acl=%2f*~data=hdntl~hmac=6b9a8659d2c7a9377e66174023f2158430441a03d6c04949aea20479e214ed5d/index-f1-v1.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1720976272~exp=1720983472~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=173d17b32cc880f5e68fad9dd6c135c08fd91aed2cd306e952bd6df7997fd242
 #EXTINF:-1,Tv Publica 720
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1,AR| Tv Publica 1080
