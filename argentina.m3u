@@ -10,3 +10,5 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
 #EXTINF:-1,A24
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/a6ab2f4b-6685-46fb-bde7-deae3eb6a3a1:SCL/master.m3u8
+#EXTINF:-1,America TV
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/a6ab2f4b-6685-46fb-bde7-deae3eb6a3a1:SCL/master.m3u8
