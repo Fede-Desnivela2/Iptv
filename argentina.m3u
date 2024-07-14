@@ -3,7 +3,9 @@
 #EXTINF:-1,Telefe 1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1,Telefe 2
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1720976272~exp=1720983472~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=173d17b32cc880f5e68fad9dd6c135c08fd91aed2cd306e952bd6df7997fd242
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1721084924~acl=%2f*~data=hdntl~hmac=410f561944850f37105ca6387a54a1ab21de61673ec1c8baf1c5d727717038d6/master-mtlf.m3u8
+#EXTINF:-1,Telefe 3
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1720994901~exp=1721002101~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=9adcfb8997567434e3effa838de68c170abfccd6b191d643a49f61c3da1594c5
 #EXTINF:-1,Tv Publica 720
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 #EXTINF:-1,Tv Publica 1080
@@ -20,3 +22,4 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004479/ei/X
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004514/ei/gh2UZtH5Kv-46dsP04GkuAI/ip/92.205.15.128/id/ocFG3yor--M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZrWPZlPdJfY6ortWCcMAzPA2_olUaXcvXFUrn-bMtofJbACB3yJWi3A434/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ5X2dtGgF-3O7NYCLhMEKUBUEpjPY43bbZ8hP1M_9E8AiEA5uJiqLsZxYGmSanQ-iqznIMX3Y7jldWB5osRXGjeCgE%3D/file/index.m3u8
 #EXTINF:-1,C5N
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004561/ei/sR2UZvyyHL2Di9oPooCT4AU/ip/92.205.15.128/id/Hy4UCfsE6Yk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bASIjuwAWiZ0dhpL97ZYt8SrIsGLRV56hQmxtHnFMJZGRa_uFZavz_n6ZpNU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL_iAV3mMocq5XbGKibcZFgcdqOYf5noom4Fo1Bm0XMlAiAy9l918_wwEjA2KrK1ZQrFnMLpFzfU4HUOCFRACbfbaQ%3D%3D/file/index.m3u8
+
