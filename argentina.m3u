@@ -12,3 +12,5 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/a6ab2f4b-6685-46fb-bde7-deae3eb6a3a1:SCL/master.m3u8
 #EXTINF:-1,America TV
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/0b90db58-a8ae-4471-93b7-79b39638dfba:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
+#EXTINF:-1,TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004144/ei/EByUZu2KNJmGi9oPhpi72Ao/ip/92.205.15.128/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZ5WPOMOSg30g0lzo8JndG0IvSblTimcvo9Lv-8kX6AKP56gq4EPDgKKXVY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO7UBFnIvbhYVnPycRmGIB_4OvMDoWvd3BZVHAs4_S3xAiEA0MN1pZRDEVYrc9bpuvczsdY98XZX5t9Gmdw4vz5u9AM%3D/file/index.m3u8
