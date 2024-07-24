@@ -1,25 +1,757 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1,Telefe 1
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-#EXTINF:-1,Telefe 2
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1721084924~acl=%2f*~data=hdntl~hmac=410f561944850f37105ca6387a54a1ab21de61673ec1c8baf1c5d727717038d6/master-mtlf.m3u8
-#EXTINF:-1,Telefe 3
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1720994901~exp=1721002101~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=9adcfb8997567434e3effa838de68c170abfccd6b191d643a49f61c3da1594c5
-#EXTINF:-1,Tv Publica 720
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
-#EXTINF:-1,Tv Publica 1080
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_1080p.m3u8
-#EXTINF:-1,A24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004787/ei/kx6UZuPuKb_Rp-oPnMen0A4/ip/92.205.15.128/id/QGpHLgRnrx4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAUmA-PP2lj_G1z5K74aOZa4KC_ep066A1zpKw_BLsRnwCsNFQIbmQkyF5tk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJdwX3oLaO4hh4cvFICLSY2TP95K4_IrLgcHSJlSNzeYAiApqevEqIkINcr7nxHIZXHGT8puTY4QkQoBrwuv9R6oMA%3D%3D/file/index.m3u8
-#EXTINF:-1,America Tv
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/fb8735af-e58e-4c40-a374-b2a0b2445ae7:TUL/master.m3u8
-#EXTINF:-1,TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004144/ei/EByUZu2KNJmGi9oPhpi72Ao/ip/92.205.15.128/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZ5WPOMOSg30g0lzo8JndG0IvSblTimcvo9Lv-8kX6AKP56gq4EPDgKKXVY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAO7UBFnIvbhYVnPycRmGIB_4OvMDoWvd3BZVHAs4_S3xAiEA0MN1pZRDEVYrc9bpuvczsdY98XZX5t9Gmdw4vz5u9AM%3D/file/index.m3u8
-#EXTINF:-1,Cronica TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004479/ei/Xx2UZp7_AfmBi9oP0NOwuAs/ip/92.205.15.128/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAbDwULuiRMipc9BI2eojQYhURdOeuthyH1987kKDDU5dV3CsK2UePqYMytw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANh4ub5GKKppf3KKow6V01mpubwjir02t-FIzUJKSqvKAiAq7Wn43dgRieJRxZ_-MxLwMeeyFqgPSqEUsS_chM7Vsg%3D%3D/file/index.m3u8
-#EXTINF:-1,LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721004514/ei/gh2UZtH5Kv-46dsP04GkuAI/ip/92.205.15.128/id/ocFG3yor--M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAZrWPZlPdJfY6ortWCcMAzPA2_olUaXcvXFUrn-bMtofJbACB3yJWi3A434/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ5X2dtGgF-3O7NYCLhMEKUBUEpjPY43bbZ8hP1M_9E8AiEA5uJiqLsZxYGmSanQ-iqznIMX3Y7jldWB5osRXGjeCgE%3D/file/index.m3u8
-#EXTINF:-1,AmericaTVperu
-http://tecnozone.site:8090/HarSantos/HaroldSan/48
-
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR 1 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/tivibuSpor1.png" group-title="TR SPOR",TR: TIVIBU SPOR 1 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/6049
+#EXTINF:-1 tvg-id="" tvg-name="TR: TIVIBU SPOR FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/tivibuSpor.png" group-title="TR SPOR",TR: TIVIBU SPOR FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1468
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="TR: SPOR SMART FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/spor_smart.png" group-title="TR SPOR",TR: SPOR SMART FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/6050
+#EXTINF:-1 tvg-id="canalc.be" tvg-name="BE: CANAL Z" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/canal_c.png" group-title="BE BELGIE - BELGIQUE",BE: CANAL Z
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/390631
+#EXTINF:-1 tvg-id="laune.be" tvg-name="BE: LA UNE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/LAUNEHD.png" group-title="BE BELGIE - BELGIQUE",BE: LA UNE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8323
+#EXTINF:-1 tvg-id="tipiktv.be" tvg-name="BE: TIPIK HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/t%c4%b1p%c4%b1ktv.png" group-title="BE BELGIE - BELGIQUE",BE: TIPIK HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8324
+#EXTINF:-1 tvg-id="latrois.be" tvg-name="BE: LA TROIS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/LATROIS.png" group-title="BE BELGIE - BELGIQUE",BE: LA TROIS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8325
+#EXTINF:-1 tvg-id="rtltvi.be" tvg-name="BE: RTL TVI HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/RTLTVIHD.png" group-title="BE BELGIE - BELGIQUE",BE: RTL TVI HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8326
+#EXTINF:-1 tvg-id="clubrtl.be" tvg-name="BE: CLUB RTL FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/CLUBRTL.png" group-title="BE BELGIE - BELGIQUE",BE: CLUB RTL FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8327
+#EXTINF:-1 tvg-id="plugrtl.be" tvg-name="BE: PLUG RTL" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/plug_rtl.png" group-title="BE BELGIE - BELGIQUE",BE: PLUG RTL
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8328
+#EXTINF:-1 tvg-id="" tvg-name="BE: AB 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/ab3.png" group-title="BE BELGIE - BELGIQUE",BE: AB 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/12516
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEL RTL" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/bel_rtl.png" group-title="BE BELGIE - BELGIQUE",BE: BEL RTL
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/87266
+#EXTINF:-1 tvg-id="xite.nl" tvg-name="BE: XITE BELGIE" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/xite.png" group-title="BE BELGIE - BELGIQUE",BE: XITE BELGIE
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/82490
+#EXTINF:-1 tvg-id="" tvg-name="BE: NRJ HITS BELGIQUE" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/NRJ_Hits_TV.png" group-title="BE BELGIE - BELGIQUE",BE: NRJ HITS BELGIQUE
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/82491
+#EXTINF:-1 tvg-id="" tvg-name="BE: TELE BRUXELLERS" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/teleBruxellers.png" group-title="BE BELGIE - BELGIQUE",BE: TELE BRUXELLERS
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/41767
+#EXTINF:-1 tvg-id="vijftv.be" tvg-name="BE: VIJF" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/vijf.png" group-title="BE BELGIE - BELGIQUE",BE: VIJF
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8576
+#EXTINF:-1 tvg-id="canvas.be" tvg-name="BE: CANVAS FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/Canvas.png" group-title="BE BELGIE - BELGIQUE",BE: CANVAS FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8573
+#EXTINF:-1 tvg-id="een.be" tvg-name="BE: EEN HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/een.png" group-title="BE BELGIE - BELGIQUE",BE: EEN HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8572
+#EXTINF:-1 tvg-id="ketnetop12.be" tvg-name="BE: KETNET HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/ketnet.png" group-title="BE BELGIE - BELGIQUE",BE: KETNET HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8578
+#EXTINF:-1 tvg-id="vtm2.be" tvg-name="BE: VTM 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/vtm2.png" group-title="BE BELGIE - BELGIQUE",BE: VTM 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/14479
+#EXTINF:-1 tvg-id="vier.be" tvg-name="BE: VIER FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/vier.png" group-title="BE BELGIE - BELGIQUE",BE: VIER FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8575
+#EXTINF:-1 tvg-id="vtm3.be" tvg-name="BE: VTM 3" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/vtm3.png" group-title="BE BELGIE - BELGIQUE",BE: VTM 3
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8577
+#EXTINF:-1 tvg-id="vtm.be" tvg-name="BE: VTM FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/vtm.png" group-title="BE BELGIE - BELGIQUE",BE: VTM FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8574
+#EXTINF:-1 tvg-id="vtmkzoom.be" tvg-name="BE: VTMKAZOOM/ KANAL Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/VTM_logo_new.svg/1200px-VTM_logo_new.svg.png" group-title="BE BELGIE - BELGIQUE",BE: VTMKAZOOM/ KANAL Z
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/30497
+#EXTINF:-1 tvg-id="vtm4.be" tvg-name="BE: VTM 4" tvg-logo="http://sltv-logo.cms-s.com/logo/BELGIUM/caz.png" group-title="BE BELGIE - BELGIQUE",BE: VTM 4
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/14868
+#EXTINF:-1 tvg-id="" tvg-name="IT: ITALIA 2 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/ITALY/Mediaset-Italia2.png" group-title="IT ITALIA",IT: ITALIA 2 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/474119
+#EXTINF:-1 tvg-id="raiuno.it" tvg-name="IT: RAI 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_1_hd.png" group-title="IT ITALIA",IT: RAI 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/633
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="IT: RAI 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_2_hd.png" group-title="IT ITALIA",IT: RAI 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7609
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT: RAI 4 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_4_hd.png" group-title="IT ITALIA",IT: RAI 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7612
+#EXTINF:-1 tvg-id="rai5.it" tvg-name="IT: RAI 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/ITALY/RAI5HD.png" group-title="IT ITALIA",IT: RAI 5 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7608
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: CANALE 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/mediaset_canale5.png" group-title="IT ITALIA",IT: CANALE 5 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/128492
+#EXTINF:-1 tvg-id="raiuno.it" tvg-name="IT: RAI 1" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_1.png" group-title="IT ITALIA",IT: RAI 1
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1127
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="IT: RAI 2" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_2.png" group-title="IT ITALIA",IT: RAI 2
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1128
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="IT: RAI 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_3_hd.png" group-title="IT ITALIA",IT: RAI 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/635
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT: RAI 4" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_4.png" group-title="IT ITALIA",IT: RAI 4
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/636
+#EXTINF:-1 tvg-id="italia1.it" tvg-name="IT: ITALIA 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/mediaset_italia1.png" group-title="IT ITALIA",IT: ITALIA 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/656
+#EXTINF:-1 tvg-id="retequattro.it" tvg-name="IT: RETE 4 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/mediaset_rete4.png" group-title="IT ITALIA",IT: RETE 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/665
+#EXTINF:-1 tvg-id="la5.it" tvg-name="IT: LA 5" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/mediaset_la_5.png" group-title="IT ITALIA",IT: LA 5
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/658
+#EXTINF:-1 tvg-id="la7.it" tvg-name="IT: LA 7" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/la_7_it.png" group-title="IT ITALIA",IT: LA 7
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/58284
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="IT: LA 7D  FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/la_7d_it.png" group-title="IT ITALIA",IT: LA 7D  FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/58285
+#EXTINF:-1 tvg-id="raiscuola.it" tvg-name="IT: RAI SCUOLA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_scuola.png" group-title="IT ITALIA",IT: RAI SCUOLA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1151
+#EXTINF:-1 tvg-id="cartoonito.it" tvg-name="IT: CARTOONITO" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/cartoonito_us.png" group-title="IT BAMBINI",IT: CARTOONITO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1155
+#EXTINF:-1 tvg-id="rsila1.ch" tvg-name="CH: RSI LA 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Switzerland/rsi_la1.png" group-title="CH SUISSE - SWITZERLAND",CH: RSI LA 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7869
+#EXTINF:-1 tvg-id="rsila2.ch" tvg-name="CH: RSI LA 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Switzerland/rsi_la2.png" group-title="CH SUISSE - SWITZERLAND",CH: RSI LA 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7870
+#EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="IT: RAI YOYO" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_yoyo.png" group-title="IT BAMBINI",IT: RAI YOYO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/642
+#EXTINF:-1 tvg-id="raistoria.it" tvg-name="IT: RAI STORIA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_storia.png" group-title="IT ITALIA",IT: RAI STORIA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/643
+#EXTINF:-1 tvg-id="raipremium.it" tvg-name="IT: RAI PREMIUM" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_premium.png" group-title="IT ITALIA",IT: RAI PREMIUM
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7613
+#EXTINF:-1 tvg-id="rainews.it" tvg-name="IT: RAI NEWS 24 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_news_24.png" group-title="IT MUSICA - NOTIZIE",IT: RAI NEWS 24 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/638
+#EXTINF:-1 tvg-id="raimovie.it" tvg-name="IT: RAI MOVIE FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_movie.png" group-title="IT ITALIA",IT: RAI MOVIE FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7614
+#EXTINF:-1 tvg-id="raigulp.it" tvg-name="IT: RAI GULP" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_gulp.png" group-title="IT ITALIA",IT: RAI GULP
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/639
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT: RAI SPORT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Rai_Sport.png" group-title="IT SPORT",IT: RAI SPORT HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7611
+#EXTINF:-1 tvg-id="" tvg-name="IT: UNIRESAT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/unire_sat.png" group-title="IT ITALIA",IT: UNIRESAT HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/123275
+#EXTINF:-1 tvg-id="raisport.it" tvg-name="IT: RAI SPORT+" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Rai-Sport+.png" group-title="IT SPORT",IT: RAI SPORT+
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/695
+#EXTINF:-1 tvg-id="boing.it" tvg-name="IT: BOING HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/boing_it.png" group-title="IT BAMBINI",IT: BOING HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/670
+#EXTINF:-1 tvg-id="dmax.it" tvg-name="IT: DMAX FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/dmax_us.png" group-title="IT ITALIA",IT: DMAX FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3339
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="IT: CIELO" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/cielo.png" group-title="IT ITALIA",IT: CIELO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3340
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="IT: TOP CRIME HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/top_crime_it.png" group-title="IT ITALIA",IT: TOP CRIME HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/654
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="IT: MEDIASET EXTRA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/mediaset_extra.png" group-title="IT ITALIA",IT: MEDIASET EXTRA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/661
+#EXTINF:-1 tvg-id="tgcom24.it" tvg-name="IT: TGCOM 24" tvg-logo="http://51.158.145.100/picons/logos/tgcom24.png" group-title="IT MUSICA - NOTIZIE",IT: TGCOM 24
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/684
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT: EUROSPORT 1" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Eurosport_1.png" group-title="IT SPORT",IT: EUROSPORT 1
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2582
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: EUROSPORT 2" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Eurosport_2.png" group-title="IT SPORT",IT: EUROSPORT 2
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2581
+#EXTINF:-1 tvg-id="super.it" tvg-name="IT: SUPER" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/super_tv_it.png" group-title="IT ITALIA",IT: SUPER
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3635
+#EXTINF:-1 tvg-id="primafila1.it" tvg-name="IT: SKY PRIMAFILA 1  HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 1  HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2082
+#EXTINF:-1 tvg-id="primafila2.it" tvg-name="IT: SKY PRIMAFILA 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2083
+#EXTINF:-1 tvg-id="primafila3.it" tvg-name="IT: SKY PRIMAFILA 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2084
+#EXTINF:-1 tvg-id="primafila4.it" tvg-name="IT: SKY PRIMAFILA 4 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2085
+#EXTINF:-1 tvg-id="primafila5.it" tvg-name="IT: SKY PRIMAFILA 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 5 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2086
+#EXTINF:-1 tvg-id="primafila6.it" tvg-name="IT: SKY PRIMAFILA 6 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 6 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2087
+#EXTINF:-1 tvg-id="primafila7.it" tvg-name="IT: SKY PRIMAFILA 7 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 7 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2088
+#EXTINF:-1 tvg-id="primafila9.it" tvg-name="IT: SKY PRIMAFILA 9 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 9 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2090
+#EXTINF:-1 tvg-id="primafila10.it" tvg-name="IT: SKY PRIMAFILA 10 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 10 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2091
+#EXTINF:-1 tvg-id="primafila12.it" tvg-name="IT: SKY PRIMAFILA 12 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 12 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2092
+#EXTINF:-1 tvg-id="primafila14.it" tvg-name="IT: SKY PRIMAFILA 14 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 14 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2094
+#EXTINF:-1 tvg-id="primafila15.it" tvg-name="IT: SKY PRIMAFILA 15 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 15 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2095
+#EXTINF:-1 tvg-id="primafila17.it" tvg-name="IT: SKY PRIMAFILA 17 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_primafila.png" group-title="IT CINEMA",IT: SKY PRIMAFILA 17 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2096
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="IT: SKY TG 24 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_tg24.png" group-title="IT MUSICA - NOTIZIE",IT: SKY TG 24 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7841
+#EXTINF:-1 tvg-id="skyuno.it" tvg-name="IT: SKY UNO" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_uno_hd.png" group-title="IT ITALIA",IT: SKY UNO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7780
+#EXTINF:-1 tvg-id="alice.it" tvg-name="IT: ALICE" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/alice_it.png" group-title="IT ITALIA",IT: ALICE
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7834
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="IT: CARTOON NETWORK" tvg-logo="http://51.158.145.100/picons/logos/044cartoonnetwork.png" group-title="IT BAMBINI",IT: CARTOON NETWORK
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7840
+#EXTINF:-1 tvg-id="" tvg-name="IT: RDS SOCIAL TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/ITALY/rdsSocial.png" group-title="IT ITALIA",IT: RDS SOCIAL TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7784
+#EXTINF:-1 tvg-id="fox.it" tvg-name="IT: FOX" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/FOX.PNG" group-title="IT ITALIA",IT: FOX
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7782
+#EXTINF:-1 tvg-id="giallo.it" tvg-name="IT: GIALLO FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/giallo_it.png" group-title="IT ITALIA",IT: GIALLO FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7791
+#EXTINF:-1 tvg-id="k2.it" tvg-name="IT: K2" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/k2_it.png" group-title="IT BAMBINI",IT: K2
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7839
+#EXTINF:-1 tvg-id="discoverychannel.it" tvg-name="IT: DISCOVERY CHANNEL HD" tvg-logo="http://51.158.145.100/picons/logos/DISCOVERY--CHANNEL-HD.png" group-title="IT CULTURA",IT: DISCOVERY CHANNEL HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7821
+#EXTINF:-1 tvg-id="discoveryscience.it" tvg-name="IT: DISCOVERY SCIENCE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/discovery_science_global_hd.png" group-title="IT CULTURA",IT: DISCOVERY SCIENCE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7822
+#EXTINF:-1 tvg-id="natgeo.it" tvg-name="IT: NATIONAL GEOGRAPHIC" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/nat_geo_us_hd.png" group-title="IT CULTURA",IT: NATIONAL GEOGRAPHIC
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7828
+#EXTINF:-1 tvg-id="natgeowild.it" tvg-name="IT: NAT GEO WILD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/nat_geo_wild_us.png" group-title="IT CULTURA",IT: NAT GEO WILD HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7827
+#EXTINF:-1 tvg-id="realtime.it" tvg-name="IT: REAL TIME HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/real_time_it.png" group-title="IT ITALIA",IT: REAL TIME HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7789
+#EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="IT: SKY CINEMA SUSPENSE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/ITALY/skycinemasuspensehd.png" group-title="IT CINEMA",IT: SKY CINEMA SUSPENSE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7775
+#EXTINF:-1 tvg-id="historychannel.it" tvg-name="IT: HISTORY HD" tvg-logo="http://51.158.145.100/picons/logos/HISTORY-HD.jpg" group-title="IT CULTURA",IT: HISTORY HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7824
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY MOTO GP HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_MotoGP.png" group-title="IT SPORT",IT: SKY MOTO GP HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7799
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT UNO HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Uno_HD.png" group-title="IT SPORT",IT: SKY SPORT UNO HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7794
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT F1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_F1.png" group-title="IT SPORT",IT: SKY SPORT F1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7800
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY UNO FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/ITALY/SKYUNO1HD.png" group-title="IT ITALIA",IT: SKY UNO FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7809
+#EXTINF:-1 tvg-id="" tvg-name="IT: SUPER TENNIS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/superTennis.png" group-title="IT SPORT",IT: SUPER TENNIS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7801
+#EXTINF:-1 tvg-id="interchannel.it" tvg-name="IT: INTER CHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Inter_TV.png" group-title="IT SPORT",IT: INTER CHANNEL
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/129275
+#EXTINF:-1 tvg-id="skyatlantic.it" tvg-name="IT: SKY ATLANTIC HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sky_it_atlantic_hd.png" group-title="IT CINEMA",IT: SKY ATLANTIC HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169491
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT SERIE A" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Serie_A.png" group-title="IT SPORT",IT: SKY SPORT SERIE A
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169389
+#EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="IT: SKY CINEMA DUE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/ITALY/skycinemadue.png" group-title="IT CINEMA",IT: SKY CINEMA DUE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169511
+#EXTINF:-1 tvg-id="canale5.it" tvg-name="IT: CANALE 5 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/mediaset_canale5.png" group-title="IT ITALIA",IT: CANALE 5 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169486
+#EXTINF:-1 tvg-id="20mediaset.it" tvg-name="IT: 20 MEDIASET FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/ITALY/CANALE20MEDIASET.png" group-title="IT ITALIA",IT: 20 MEDIASET FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169487
+#EXTINF:-1 tvg-id="mtvmusic.it" tvg-name="IT: MTV MUSICA" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/mtv_us.png" group-title="IT MUSICA - NOTIZIE",IT: MTV MUSICA
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/174648
+#EXTINF:-1 tvg-id="" tvg-name="IT: RADIO ITALIA" tvg-logo="https://static-radioitalia.akamaized.net/img/2016/web/logo_radioitalia_web2016.png" group-title="IT MUSICA - NOTIZIE",IT: RADIO ITALIA
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/174633
+#EXTINF:-1 tvg-id="raiuno.it" tvg-name="IT: RAI 1 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_1_hd.png" group-title="IT ITALIA",IT: RAI 1 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169400
+#EXTINF:-1 tvg-id="raidue.it" tvg-name="IT: RAI 2 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/rai_2_hd.png" group-title="IT ITALIA",IT: RAI 2 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169401
+#EXTINF:-1 tvg-id="rtl1025tv.it" tvg-name="IT: RTL 102.5 TV HD" tvg-logo="http://static.radio.net/images/broadcasts/8e/a1/11720/c300.png" group-title="IT MUSICA - NOTIZIE",IT: RTL 102.5 TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/174631
+#EXTINF:-1 tvg-id="tv8.it" tvg-name="IT: TV8 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/tv_8_it.png" group-title="IT ITALIA",IT: TV8 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169485
+#EXTINF:-1 tvg-id="foodnetwork.it" tvg-name="IT: FOOD NETWORK FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/uk/food_network_uk.png" group-title="IT ITALIA",IT: FOOD NETWORK FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/194447
+#EXTINF:-1 tvg-id="focustv.it" tvg-name="IT: MEDIASET FOCUS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/logos_a-z/f/focus.png" group-title="IT CULTURA",IT: MEDIASET FOCUS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/196809
+#EXTINF:-1 tvg-id="raitre.it" tvg-name="IT: RAI 3 FHD" tvg-logo="http://51.158.145.100/picons/logos/rai3hd.png" group-title="IT ITALIA",IT: RAI 3 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/197757
+#EXTINF:-1 tvg-id="rai4.it" tvg-name="IT: RAI 4 FHD" tvg-logo="http://51.158.145.100/picons/logos/rai4hd.png" group-title="IT ITALIA",IT: RAI 4 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/197758
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT ARENA FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_Arena.png" group-title="IT SPORT",IT: SKY SPORT ARENA FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7795
+#EXTINF:-1 tvg-id="" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/Italy/sport220/Sky_Sport_24_HD.png" group-title="IT SPORT",IT: SKY SPORT 24 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169377
+#EXTINF:-1 tvg-id="" tvg-name="FR: ----- SPORT -----" tvg-logo="http://sltv-logo.cms-s.com/logo/flag/fr.png" group-title="FR SPORT",FR: ----- SPORT -----
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/135906
+#EXTINF:-1 tvg-id="" tvg-name="FR: ----- FRANCE -----" tvg-logo="http://sltv-logo.cms-s.com/logo/flag/fr.png" group-title="FR FRANCE",FR: ----- FRANCE -----
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/135912
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR: TF1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TF1.png" group-title="FR FRANCE",FR: TF1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1158
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FR: FRANCE 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/FRANCE2HD.png" group-title="FR FRANCE",FR: FRANCE 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1941
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FR: FRANCE 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/FRANCE3HD.png" group-title="FR FRANCE",FR: FRANCE 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1942
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FR: FRANCE 4 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/FRANCE4HD.png" group-title="FR FRANCE",FR: FRANCE 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/343
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FR: FRANCE 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/FRANCE5HD.png" group-title="FR FRANCE",FR: FRANCE 5 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1943
+#EXTINF:-1 tvg-id="franceo.fr" tvg-name="FR: FRANCE INFO HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/FRANCEINFOHD.png" group-title="FR INFOS",FR: FRANCE INFO HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1944
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR: ARTE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/ARTE.png" group-title="FR DOCUMENTAIRE",FR: ARTE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1496
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="FR: M6 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/M6HD.png" group-title="FR FRANCE",FR: M6 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1159
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR: TMC HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TMC.png" group-title="FR FRANCE",FR: TMC HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1946
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="FR: TMC+1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TMC.png" group-title="FR FRANCE",FR: TMC+1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/137937
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="FR: TF1 SERIES FILMS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TF1SERIESFILM.png" group-title="FR CINEMA",FR: TF1 SERIES FILMS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/359
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR: C8 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/C8.png" group-title="FR FRANCE",FR: C8 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1931
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6TER HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/6TER.png" group-title="FR FRANCE",FR: 6TER HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/366
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="FR: W9 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/W9.png" group-title="FR FRANCE",FR: W9 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1947
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR: TFX HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TFX.png" group-title="FR FRANCE",FR: TFX HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1949
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="FR: TFX FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TFX.png" group-title="FR FRANCE",FR: TFX FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/29956
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="FR: CSTAR HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CSTAR.png" group-title="FR FRANCE",FR: CSTAR HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1950
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR: 13 EME RUE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/13EMERUE.png" group-title="FR FRANCE",FR: 13 EME RUE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1236
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/sky_syfy.png" group-title="FR FRANCE",FR: SYFY HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1238
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="FR: TEVA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TEVA.png" group-title="FR FRANCE",FR: TEVA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2545
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="FR: TV BREIZH HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TVBREIZH.png" group-title="FR FRANCE",FR: TV BREIZH HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3805
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDIE+ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/COMEDIEHD.png" group-title="FR CINEMA",FR: COMEDIE+ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3813
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="FR: SERIE CLUB HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/SERIECLUBHD.png" group-title="FR CINEMA",FR: SERIE CLUB HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3803
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/PARISPREMIERE.png" group-title="FR FRANCE",FR: PARIS PREMIERE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2546
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/PARAMOUNTCHANNEL.png" group-title="FR CINEMA",FR: PARAMOUNT CHANNEL HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3807
+#EXTINF:-1 tvg-id="" tvg-name="FR: COMEDY CENTRAL  HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/COMMEDYCENTRAL.png" group-title="FR FRANCE",FR: COMEDY CENTRAL  HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/165280
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="FR: E! ENTERTAINMENT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/e.png" group-title="FR FRANCE",FR: E! ENTERTAINMENT HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3999
+#EXTINF:-1 tvg-id="action.fr" tvg-name="FR: ACTION HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/ACTIONHD.png" group-title="FR CINEMA",FR: ACTION HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2541
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR: CHERIE 25 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CHERIE25.png" group-title="FR FRANCE",FR: CHERIE 25 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1951
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="FR: RMC STORY HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSTORY.png" group-title="FR DOCUMENTAIRE",FR: RMC STORY HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1948
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="FR: NRJ 12 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/NRJ12.png" group-title="FR MUSIQUE",FR: NRJ 12 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1497
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="FR: RTL 9 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RTL9.png" group-title="FR FRANCE",FR: RTL 9 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2542
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/BET.png" group-title="FR FRANCE",FR: BET HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8652
+#EXTINF:-1 tvg-id="tv5monde.fr" tvg-name="FR: TV 5 MONDE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TV5MONDE.png" group-title="FR DOCUMENTAIRE",FR: TV 5 MONDE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8559
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR: AB1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/AB1.png" group-title="FR FRANCE",FR: AB1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7443
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="FR: WARNER TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/WARNER.png" group-title="FR CINEMA",FR: WARNER TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/130875
+#EXTINF:-1 tvg-id="" tvg-name="FR: ----- ENFANT -----" tvg-logo="http://sltv-logo.cms-s.com/logo/flag/fr.png" group-title="FR ENFANT",FR: ----- ENFANT -----
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/135914
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/disney_channel.png" group-title="FR ENFANT",FR: DISNEY CHANNEL HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1891
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="FR: DISNEY CHANNEL 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/disney_channel.png" group-title="FR ENFANT",FR: DISNEY CHANNEL 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1952
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="FR: DISNEY JUNIOR HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/disney_junior.png" group-title="FR ENFANT",FR: DISNEY JUNIOR HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1954
+#EXTINF:-1 tvg-id="disneyxd.fr" tvg-name="FR: DISNEY XD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/disney_xd.png" group-title="FR ENFANT",FR: DISNEY XD HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1953
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="FR: NICK JUNIOR HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/NICKELODEONJUNIORHD.png" group-title="FR ENFANT",FR: NICK JUNIOR HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3808
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="FR: CARTOON NETWORK HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CARTOONNETWORKHD.png" group-title="FR ENFANT",FR: CARTOON NETWORK HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1502
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="FR: CANAL J HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CANALJHD.png" group-title="FR ENFANT",FR: CANAL J HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3828
+#EXTINF:-1 tvg-id="" tvg-name="FR: MANGAS" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/mangas.png" group-title="FR ENFANT",FR: MANGAS
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/329
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="FR: GULLI HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/GULLIHD.png" group-title="FR ENFANT",FR: GULLI HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/347
+#EXTINF:-1 tvg-id="" tvg-name="FR: J-ONE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/J-ONEHD.png" group-title="FR ENFANT",FR: J-ONE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94561
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="FR: TOONAMI HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/TOONAMIHD.png" group-title="FR ENFANT",FR: TOONAMI HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94560
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="FR: BOING HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/BOINGHD.png" group-title="FR ENFANT",FR: BOING HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8562
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="FR: GAME ONE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/GAMEONEHD.png" group-title="FR ENFANT",FR: GAME ONE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3812
+#EXTINF:-1 tvg-id="" tvg-name="FR: ----- DOCUMENTAIRE -----" tvg-logo="http://sltv-logo.cms-s.com/logo/flag/fr.png" group-title="FR DOCUMENTAIRE",FR: ----- DOCUMENTAIRE -----
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/135915
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="FR: NAT GEO WILD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/national_geo_wild.png" group-title="FR DOCUMENTAIRE",FR: NAT GEO WILD HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2548
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="FR: DISCOVERY FRANCE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/discovery_channel.png" group-title="FR DOCUMENTAIRE",FR: DISCOVERY FRANCE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2547
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISCOVERY INVESTIGATION HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/Investigation_Discovery_2020%20(1).png" group-title="FR DOCUMENTAIRE",FR: DISCOVERY INVESTIGATION HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94564
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR: USHUAIA TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/USHUAIAHD.png" group-title="FR DOCUMENTAIRE",FR: USHUAIA TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2549
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR: RMC DECOUVERTE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/RMCDECOUVERTEHD.png" group-title="FR DOCUMENTAIRE",FR: RMC DECOUVERTE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1486
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="FR: TOUTE L HISTOIRE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TOUTE%20L'HISTOIRE.png" group-title="FR DOCUMENTAIRE",FR: TOUTE L HISTOIRE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2550
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CHASSEETPECHE.png" group-title="FR DOCUMENTAIRE",FR: CHASSE ET PECHE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/337
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="FR: ANIMAUX FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/ANIMAUXHD.png" group-title="FR DOCUMENTAIRE",FR: ANIMAUX FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/334
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR: SCIENCE ET VIE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/SCIENCEETVIEHD.png" group-title="FR DOCUMENTAIRE",FR: SCIENCE ET VIE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/335
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="FR: HISTOIRE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/HISTOIREHD.png" group-title="FR DOCUMENTAIRE",FR: HISTOIRE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1484
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR: SEASONS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/SEASONHD.png" group-title="FR DOCUMENTAIRE",FR: SEASONS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3804
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CRIMEDISTRICTHD.png" group-title="FR DOCUMENTAIRE",FR: CRIME DISTRICT HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94538
+#EXTINF:-1 tvg-id="trek.fr" tvg-name="FR: TREK HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/TREKHD.png" group-title="FR DOCUMENTAIRE",FR: TREK HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3822
+#EXTINF:-1 tvg-id="" tvg-name="FR: ----- CINEMA -----" tvg-logo="http://sltv-logo.cms-s.com/logo/flag/fr.png" group-title="FR CINEMA",FR: ----- CINEMA -----
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/135913
+#EXTINF:-1 tvg-id="" tvg-name="FR: SL CINEMA ACTION HD" tvg-logo="https://imageshack.com/a/img923/3096/OJEsKp.png" group-title="FR EXCLUSIVES",FR: SL CINEMA ACTION HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169318
+#EXTINF:-1 tvg-id="" tvg-name="FR: SL CINEMA ACTION 2 HD" tvg-logo="https://imageshack.com/a/img922/1932/7TqGVq.png" group-title="FR EXCLUSIVES",FR: SL CINEMA ACTION 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169336
+#EXTINF:-1 tvg-id="" tvg-name="FR: SL CINEMA PREMIUM HD" tvg-logo="https://imageshack.com/a/img921/9027/hqOaZt.png" group-title="FR EXCLUSIVES",FR: SL CINEMA PREMIUM HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169320
+#EXTINF:-1 tvg-id="" tvg-name="FR: SL CINEMA GOLD HD" tvg-logo="https://imageshack.com/a/img923/5052/cTbZgN.png" group-title="FR EXCLUSIVES",FR: SL CINEMA GOLD HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169319
+#EXTINF:-1 tvg-id="" tvg-name="FR: SL CINEMA COMEDY HD" tvg-logo="https://imageshack.com/a/img922/1736/DeACtg.jpg" group-title="FR EXCLUSIVES",FR: SL CINEMA COMEDY HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169321
+#EXTINF:-1 tvg-id="" tvg-name="FR: SL CINEMA DRAME 1 HD" tvg-logo="https://imageshack.com/a/img921/9548/L6KKlm.png" group-title="FR EXCLUSIVES",FR: SL CINEMA DRAME 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/169335
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-name="FR: CANAL+ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CANAL+HD.png" group-title="FR CINEMA",FR: CANAL+ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/364
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="FR: CINE+ CLASSIC HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CINECLASSICHD.png" group-title="FR CINEMA",FR: CINE+ CLASSIC HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1480
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="FR: TCM CINEMA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TCMCINEMAHD.png" group-title="FR CINEMA",FR: TCM CINEMA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2544
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="FR: CINE+ CLUB HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CINE+CLUB.png" group-title="FR CINEMA",FR: CINE+ CLUB HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8560
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GO CINEMA 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: OCS GO CINEMA 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/129204
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GO CINEMA 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: OCS GO CINEMA 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/129201
+#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINEMA AVENTURE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/orange-tv.png" group-title="FR CINEMA",FR: ORANGE CINEMA AVENTURE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/129193
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3830
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3831
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3832
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 5 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3973
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 6 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 6 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3974
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 7 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 7 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3975
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 8 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 8 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/150671
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 9 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 9 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/150672
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 10 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 10 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/150673
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 1" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: CANALPLAY 1
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2126
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 2" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: CANALPLAY 2
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2127
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 3" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: CANALPLAY 3
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2128
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 4" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: CANALPLAY 4
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2129
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANALPLAY 5" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: CANALPLAY 5
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/2130
+#EXTINF:-1 tvg-id="" tvg-name="FR: ----- MUSIQUE / NEWS -----" tvg-logo="http://sltv-logo.cms-s.com/logo/flag/fr.png" group-title="FR MUSIQUE",FR: ----- MUSIQUE / NEWS -----
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/135916
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="FR: M6 MUSIC" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/M6MUSICHD.png" group-title="FR MUSIQUE",FR: M6 MUSIC
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/13880
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="FR: MCM" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/MCMHD.png" group-title="FR MUSIQUE",FR: MCM
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/13903
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="FR: MTV FRANCE" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/MTVFRANCEHD.png" group-title="FR MUSIQUE",FR: MTV FRANCE
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/6038
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV DANCE" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/MTVFRANCEHD.png" group-title="FR MUSIQUE",FR: MTV DANCE
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3811
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="FR: NRJ HITS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/NRJHITSHD.png" group-title="FR MUSIQUE",FR: NRJ HITS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/29906
+#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="FR: MCM TOP" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/MCMTOPHD.png" group-title="FR MUSIQUE",FR: MCM TOP
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/136164
+#EXTINF:-1 tvg-id="" tvg-name="FR: BRAVA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/BRAVAHD.png" group-title="FR MUSIQUE",FR: BRAVA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/65177
+#EXTINF:-1 tvg-id="" tvg-name="FR: MEZZO" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/MEZZOHD.png" group-title="FR MUSIQUE",FR: MEZZO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94549
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOLLYWOOD HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/NOLLYWOOD.png" group-title="FR CINEMA",FR: NOLLYWOOD HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94565
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV HITS" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/MTVHITSHD.png" group-title="FR MUSIQUE",FR: MTV HITS
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/172043
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-urban.png" group-title="FR MUSIQUE",FR: TRACE URBAN
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/13215
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE AFRICA" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-africa.png" group-title="FR MUSIQUE",FR: TRACE AFRICA
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94574
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE GOSPEL" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-gospel.png" group-title="FR MUSIQUE",FR: TRACE GOSPEL
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94573
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE MZIKI" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-mziki.png" group-title="FR MUSIQUE",FR: TRACE MZIKI
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94572
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE NAIJA" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-naija.png" group-title="FR MUSIQUE",FR: TRACE NAIJA
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94571
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE SPORT AND STAR (MULTI LANGUAGE)" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-sp-star.png" group-title="FR MUSIQUE",FR: TRACE SPORT AND STAR (MULTI LANGUAGE)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94568
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TOCA" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-toca.png" group-title="FR MUSIQUE",FR: TRACE TOCA
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/94570
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS" tvg-logo="http://sltv-logo.cms-s.com/logo/2021mixlogo/euronews.png" group-title="FR INFOS",FR: EURONEWS
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/13239
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FR: FRANCE 24 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/FRANCE24.png" group-title="FR INFOS",FR: FRANCE 24 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/789
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR: CNEWS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CNEWSHD.png" group-title="FR INFOS",FR: CNEWS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1956
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR: BFM TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/BFMHD.png" group-title="FR INFOS",FR: BFM TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1958
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/LCP.png" group-title="FR INFOS",FR: LCP HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1957
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="FR: LCI HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/LCIHD.png" group-title="FR INFOS",FR: LCI HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/5564
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/BFMHD.png" group-title="FR INFOS",FR: BFM BUSINESS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/73486
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FR: FRANCE INFO" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/FRANCEINFOHD.png" group-title="FR INFOS",FR: FRANCE INFO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/73487
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="FR: I24 NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" group-title="FR INFOS",FR: I24 NEWS
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/73490
+#EXTINF:-1 tvg-id="kto.fr" tvg-name="FR: KTO" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/KTOHD.png" group-title="FR INFOS",FR: KTO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1207
+#EXTINF:-1 tvg-id="beinsports1.fr" tvg-name="FR: BEIN SPORT 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/bein_sports_1.png" group-title="FR SPORT",FR: BEIN SPORT 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/361
+#EXTINF:-1 tvg-id="beinsports2.fr" tvg-name="FR: BEIN SPORT 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/bein_sports_2.png" group-title="FR SPORT",FR: BEIN SPORT 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/362
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR: BEIN SPORT 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT31.2MB.png" group-title="FR SPORT",FR: BEIN SPORT 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/363
+#EXTINF:-1 tvg-id="bein4max.fr" tvg-name="FR: BEIN SPORTS MAX 4 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT41.2MB.png" group-title="FR SPORT",FR: BEIN SPORTS MAX 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8565
+#EXTINF:-1 tvg-id="bein5max.fr" tvg-name="FR: BEIN SPORT MAX HD 5" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT51.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 5
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8566
+#EXTINF:-1 tvg-id="bein6max.fr" tvg-name="FR: BEIN SPORT MAX HD 6" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT61.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 6
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8567
+#EXTINF:-1 tvg-id="bein7max.fr" tvg-name="FR: BEIN SPORT MAX HD 7" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT71.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 7
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/73482
+#EXTINF:-1 tvg-id="bein8max.fr" tvg-name="FR: BEIN SPORT MAX HD 8" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT81.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 8
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/73483
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-name="FR: BEIN SPORT MAX HD 9" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT91.2MB.png" group-title="FR SPORT",FR: BEIN SPORT MAX HD 9
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/73484
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR: RMC SPORT 3 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSPORT3.png" group-title="FR SPORT",FR: RMC SPORT 3 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/176079
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR: RMC SPORT  4 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSPORT4.png" group-title="FR SPORT",FR: RMC SPORT  4 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/176136
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/RMCSPORT1HD.png" group-title="FR SPORT",FR: RMC SPORT 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7175
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/RMCSPORT2HD.png" group-title="FR SPORT",FR: RMC SPORT 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7176
+#EXTINF:-1 tvg-id="rmcsport3.fr" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/RMCSPORT3HD.png" group-title="FR SPORT",FR: RMC SPORT 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/7434
+#EXTINF:-1 tvg-id="rmcsport4.fr" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/RMCSPORT4HD.png" group-title="FR SPORT",FR: RMC SPORT 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/137934
+#EXTINF:-1 tvg-id="rmcsportaccess2.fr" tvg-name="FR: RMC ACCESS  2 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCACCESS2.png" group-title="FR SPORT",FR: RMC ACCESS  2 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/161707
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR: BFM SPORT" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/BFMSPORTHD.png" group-title="FR SPORT",FR: BFM SPORT
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/88284
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/eurosport_1.png" group-title="FR SPORT",FR: EUROSPORT 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1892
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/eurosport_2.png" group-title="FR SPORT",FR: EUROSPORT 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3827
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="FR: L EQUIPE CINE HD" tvg-logo="http://51.158.145.100/picons/logos/lequipetv.png" group-title="FR SPORT",FR: L EQUIPE CINE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1488
+#EXTINF:-1 tvg-id="equidialive.fr" tvg-name="FR: EQUIDIA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/EQUIDIALIVEHD.png" group-title="FR SPORT",FR: EQUIDIA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1491
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/GOLFCHANNELHD.png" group-title="FR SPORT",FR: GOLF CHANNEL
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/8653
+#EXTINF:-1 tvg-id="ab3.fr" tvg-name="FR: AB 3 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/AB3.png" group-title="FR FRANCE",FR: AB 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/197281
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 4 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/canal_play.png" group-title="FR CINEMA",FR: A LA CARTE 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/208912
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR: ARTE FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/ARTE.png" group-title="FR DOCUMENTAIRE",FR: ARTE FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/134232
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO LA CHAINE FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/AUTOMOTO.png" group-title="FR SPORT",FR: AUTOMOTO LA CHAINE FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/188511
+#EXTINF:-1 tvg-id="bein10max.fr" tvg-name="FR: BEIN SPORTS MAX  HD 10" tvg-logo="http://sltv-logo.cms-s.com/logo/BEIN/BEINSPORT101.2MB.png" group-title="FR SPORT",FR: BEIN SPORTS MAX  HD 10
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187741
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="FR: BOOMERANG HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/BOOMERANGHD.png" group-title="FR ENFANT",FR: BOOMERANG HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1500
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR: CANAL+  CINEMA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CANAL+CINEMA.png" group-title="FR CINEMA",FR: CANAL+  CINEMA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/355
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-name="FR: CANAL+ SPORT 360 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CANAL+DECALEHD.png" group-title="FR SPORT",FR: CANAL+ SPORT 360 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/365
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-name="FR: CANAL+  KID HD" tvg-logo="http://51.158.145.100/picons/logos/CANAL+-KIDS.png" group-title="FR ENFANT",FR: CANAL+  KID HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/357
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+  SERIES FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CANAL+SERIES.png" group-title="FR CINEMA",FR: CANAL+  SERIES FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/145002
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR: CANAL+ SERIES HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CANAL+SERIEHD.png" group-title="FR CINEMA",FR: CANAL+ SERIES HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1444
+#EXTINF:-1 tvg-id="canalplussport.fr" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CANAL+SPORTHD.png" group-title="FR SPORT",FR: CANAL+ SPORT HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/356
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="FR: CHASSE ET PÊCHE FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CHASSEETPECHE.png" group-title="FR DOCUMENTAIRE",FR: CHASSE ET PÊCHE FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/188518
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="FR: CINE+ FAMIZ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CINE+FAMIZHD.png" group-title="FR CINEMA",FR: CINE+ FAMIZ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/523
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="FR: CINE+ FRISSON HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/CINE+FRISSONHD.png" group-title="FR CINEMA",FR: CINE+ FRISSON HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/524
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="FR: CINE+ EMOTION HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CINE+EMOTION.png" group-title="FR CINEMA",FR: CINE+ EMOTION HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1474
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="FR: CINE+ PREMIER HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CINEPREMIERE.png" group-title="FR CINEMA",FR: CINE+ PREMIER HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1473
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR HITS FRANCE FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/CSTAR.png" group-title="FR MUSIQUE",FR: CSTAR HITS FRANCE FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/188521
+#EXTINF:-1 tvg-id="" tvg-name="FR: DC COMICS" tvg-logo="https://www.logodesignlove.com/images/identity/dc-comics-logo.jpg" group-title="FR EXCLUSIVES",FR: DC COMICS
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/250286
+#EXTINF:-1 tvg-id="discoveryscience.fr" tvg-name="FR: DISCOVERY SCIENCE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/discovery_science.png" group-title="FR DOCUMENTAIRE",FR: DISCOVERY SCIENCE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1233
+#EXTINF:-1 tvg-id="" tvg-name="FR: DISNEY+ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/disney-plus-logo-1.png" group-title="FR ENFANT",FR: DISNEY+ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/249212
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-name="FR: DISNEY CINEMA HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/DISNEY%20CINEMA.png" group-title="FR CINEMA",FR: DISNEY CINEMA HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/196205
+#EXTINF:-1 tvg-id="" tvg-name="FR: DJAZZ TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/djazz.png" group-title="FR MUSIQUE",FR: DJAZZ TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/212532
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="FR: GAME ONE+1" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/GAMEONEHD.png" group-title="FR ENFANT",FR: GAME ONE+1
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/134346
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="FR: GOLF+  HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/GOLF+HD.png" group-title="FR SPORT",FR: GOLF+  HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187808
+#EXTINF:-1 tvg-id="" tvg-name="FR: IDF1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/idf1.png" group-title="FR ENFANT",FR: IDF1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/212535
+#EXTINF:-1 tvg-id="" tvg-name="FR: MUSEUM CHANNEL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/Museum_ch.png" group-title="FR DOCUMENTAIRE",FR: MUSEUM CHANNEL HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/208280
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR: NAT GEO HD" tvg-logo="http://sltv-logo.cms-s.com/logo/germanynew/national_geographic.png" group-title="FR DOCUMENTAIRE",FR: NAT GEO HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1893
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="FR: NICKELODEON +1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/NICKELODEONHD.png" group-title="FR ENFANT",FR: NICKELODEON +1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/161753
+#EXTINF:-1 tvg-id="nickelodeon4teen.fr" tvg-name="FR: NICKELODEON 4 TEEN HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/Nickelodeon_Teen.png" group-title="FR ENFANT",FR: NICKELODEON 4 TEEN HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/224548
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="FR: NICKELODEON HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/NICKELODEONHD.png" group-title="FR ENFANT",FR: NICKELODEON HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3809
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOLLYWOOD FULL HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/NOLLYWOOD.png" group-title="FR CINEMA",FR: NOLLYWOOD FULL HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/208279
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="FR: NOVELAS TV HD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/NOVELAS.png" group-title="FR FRANCE",FR: NOVELAS TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/262678
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="FR: CINE+ OCS HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/OCSMAXHD.png" group-title="FR CINEMA",FR: CINE+ OCS HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3971
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT DECALE HD" tvg-logo="http://media3.woopic.com/api/v1/images/201%2Fchannel%2F8c8%2F9d4%2F0ab0f0c258365081222292cf27%2Fparamount-channel-decale%7Cclair_2072.png?format=200x200&facedetect=1&quality=85" group-title="FR CINEMA",FR: PARAMOUNT DECALE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/199990
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="FR: PIWI+ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/PIWIHD.png" group-title="FR ENFANT",FR: PIWI+ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3824
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR: PLANETE+ AVENTURE HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/planet-a-e.png" group-title="FR DOCUMENTAIRE",FR: PLANETE+ AVENTURE HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1445
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="FR: PLANETE+ CRIME HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/PLANET+CIHD.png" group-title="FR DOCUMENTAIRE",FR: PLANETE+ CRIME HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1235
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR: PLANETE+ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/planete.png" group-title="FR DOCUMENTAIRE",FR: PLANETE+ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1890
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="FR: POLAR+ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/POLARHD.png" group-title="FR CINEMA",FR: POLAR+ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/130874
+#EXTINF:-1 tvg-id="rmcsportlive5.fr" tvg-name="FR: RMC SPORT 5 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/RMCSPORT5HD.png" group-title="FR SPORT",FR: RMC SPORT 5 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/209453
+#EXTINF:-1 tvg-id="rmcsportlive6.fr" tvg-name="FR: RMC SPORT LIVE 6" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/rmc-sport-live-6.png" group-title="FR SPORT",FR: RMC SPORT LIVE 6
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187797
+#EXTINF:-1 tvg-id="rmcsportlive7.fr" tvg-name="FR: RMC SPORT LIVE 7" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSPORTLIVE7.png" group-title="FR SPORT",FR: RMC SPORT LIVE 7
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187796
+#EXTINF:-1 tvg-id="rmcsportlive8.fr" tvg-name="FR: RMC SPORT LIVE 8" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/rmc-sport-live-8.png" group-title="FR SPORT",FR: RMC SPORT LIVE 8
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187795
+#EXTINF:-1 tvg-id="rmcsportlive9.fr" tvg-name="FR: RMC SPORT LIVE 9" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/rmc-sport-live-9.png" group-title="FR SPORT",FR: RMC SPORT LIVE 9
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187794
+#EXTINF:-1 tvg-id="rmcsportlive10.fr" tvg-name="FR: RMC SPORT LIVE 10" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/rmc-sport-live-10.png" group-title="FR SPORT",FR: RMC SPORT LIVE 10
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/218540
+#EXTINF:-1 tvg-id="rmcsportlive11.fr" tvg-name="FR: RMC SPORT LIVE 11" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSPORT11.png" group-title="FR SPORT",FR: RMC SPORT LIVE 11
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/218541
+#EXTINF:-1 tvg-id="rmcsportlive12.fr" tvg-name="FR: RMC SPORT LIVE 12" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSPORT12.png" group-title="FR SPORT",FR: RMC SPORT LIVE 12
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/218542
+#EXTINF:-1 tvg-id="rmcsportlive13.fr" tvg-name="FR: RMC SPORT LIVE 13" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSPORT13.png" group-title="FR SPORT",FR: RMC SPORT LIVE 13
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/218543
+#EXTINF:-1 tvg-id="rmcsportlive15.fr" tvg-name="FR: RMC SPORT LIVE 15 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/RMCSPORT15.png" group-title="FR SPORT",FR: RMC SPORT LIVE 15 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/218545
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="FR: TELETOON +1 HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/TELETOON+HD.png" group-title="FR ENFANT",FR: TELETOON +1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/6035
+#EXTINF:-1 tvg-id="" tvg-name="FR: TELETOON+ HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/TELETOON+HD.png" group-title="FR ENFANT",FR: TELETOON+ HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/1501
+#EXTINF:-1 tvg-id="tf1.fr" tvg-name="FR: TF1+1 FHD" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/TF1+1.png" group-title="FR FRANCE",FR: TF1+1 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/208894
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="FR: TIJI HD" tvg-logo="http://sltv-logo.cms-s.com/logo/FRANCE/TIJIHD.png" group-title="FR ENFANT",FR: TIJI HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/3823
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE KITOKO" tvg-logo="http://sltv-logo.cms-s.com/logo/franceT-220x132/trace-africa.png" group-title="FR MUSIQUE",FR: TRACE KITOKO
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187965
+#EXTINF:-1 tvg-id="" tvg-name="CA: METEO MEDIA (FR)" tvg-logo="http://51.158.145.100/picons/logos/METEO-MEDIA-HD.png" group-title="CA CANADA FRENCH",CA: METEO MEDIA (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/263250
+#EXTINF:-1 tvg-id="" tvg-name="CA: ICI RDI (FR)" tvg-logo="http://51.158.145.100/picons/logos/ICI-RDI-HD.png" group-title="CA CANADA FRENCH",CA: ICI RDI (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/263236
+#EXTINF:-1 tvg-id="" tvg-name="CA: ICI RADIO-CANADA TELE  (FR)" tvg-logo="http://51.158.145.100/picons/logos/ICI-RDI-HD.png" group-title="CA CANADA FRENCH",CA: ICI RADIO-CANADA TELE  (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/263235
+#EXTINF:-1 tvg-id="" tvg-name="CA: ICI TELE (FR)" tvg-logo="http://51.158.145.100/picons/logos/ICI-TELE-HD.png" group-title="CA CANADA FRENCH",CA: ICI TELE (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/263234
+#EXTINF:-1 tvg-id="" tvg-name="CA: DISNEY FRENCH (FR)" tvg-logo="http://51.158.145.100/picons/logos/disneychannelhdfrance.png" group-title="CA CANADA FRENCH",CA: DISNEY FRENCH (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/263136
+#EXTINF:-1 tvg-id="" tvg-name="CA: CPAC FRENCH (FR)" tvg-logo="http://51.158.145.100/picons/logos/CPAC-HD-FRENCH.jpg" group-title="CA CANADA FRENCH",CA: CPAC FRENCH (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/263131
+#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA: TELE QUEBEC (FR)" tvg-logo="http://51.158.145.100/picons/logos/telequebec.jpg" group-title="CA CANADA FRENCH",CA: TELE QUEBEC (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/257315
+#EXTINF:-1 tvg-id="" tvg-name="CA: ICI VANCOUVER (FR)" tvg-logo="http://51.158.145.100/picons/logos/ICI-VANCOUVER-HD.png" group-title="CA CANADA FRENCH",CA: ICI VANCOUVER (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/257313
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA: ICI MONTREAL (FR)" tvg-logo="http://51.158.145.100/picons/logos/ICI-MONTREAL-HD.png" group-title="CA CANADA FRENCH",CA: ICI MONTREAL (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/257312
+#EXTINF:-1 tvg-id="" tvg-name="CA: LCN (FR)" tvg-logo="http://51.158.145.100/picons/logos/lcn.png" group-title="CA CANADA FRENCH",CA: LCN (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/257311
+#EXTINF:-1 tvg-id="canald.ca" tvg-name="CA: CANAL D (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/canal_d_hd.jpg" group-title="CA CANADA FRENCH",CA: CANAL D (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/197391
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA: ZESTE (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zeste.jpg" group-title="CA CANADA FRENCH",CA: ZESTE (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/197390
+#EXTINF:-1 tvg-id="canalevasion.ca" tvg-name="CA: EVASION (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/evasion.jpg" group-title="CA CANADA FRENCH",CA: EVASION (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/197388
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA: CINE POP (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cine_pop_ca.jpg" group-title="CA CANADA FRENCH",CA: CINE POP (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187784
+#EXTINF:-1 tvg-id="yoopa.ca" tvg-name="CA: YOOPA (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/yoopa.jpg" group-title="CA CANADA FRENCH",CA: YOOPA (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187783
+#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA: PRISE 2 (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/prise2.jpg" group-title="CA CANADA FRENCH",CA: PRISE 2 (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187777
+#EXTINF:-1 tvg-id="moicie.ca" tvg-name="CA: MOI / CIE HD (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/moi_et_cie_ca.jpg" group-title="CA CANADA FRENCH",CA: MOI / CIE HD (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187771
+#EXTINF:-1 tvg-id="artv.ca" tvg-name="CA: ARTV (FR)" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/artv_quebec_hd.jpg" group-title="CA CANADA FRENCH",CA: ARTV (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/187766
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA: RDS (FR)" tvg-logo="http://51.158.145.100/picons/logos/RDS-HD.jpg" group-title="CA CANADA FRENCH",CA: RDS (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/155736
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA: SUPER ECRAN 1 (FR)" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/18405/superecran_400x400.png" group-title="CA CANADA FRENCH",CA: SUPER ECRAN 1 (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/155730
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA: SUPER ECRAN 2 (FR)" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/18405/superecran_400x400.png" group-title="CA CANADA FRENCH",CA: SUPER ECRAN 2 (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/155729
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CA: SUPER ECRAN 3 (FR)" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/18405/superecran_400x400.png" group-title="CA CANADA FRENCH",CA: SUPER ECRAN 3 (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/155728
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CA: SUPER ECRAN 4 (FR)" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/Canada_1282/Source/18405/superecran_400x400.png" group-title="CA CANADA FRENCH",CA: SUPER ECRAN 4 (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/155721
+#EXTINF:-1 tvg-id="z.ca" tvg-name="CA: Z TELE (FR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Z_t%C3%A9l%C3%A9.png/200px-Z_t%C3%A9l%C3%A9.png" group-title="CA CANADA FRENCH",CA: Z TELE (FR)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/155714
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 1 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 1 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485019
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 2 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 2 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485018
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 3 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 3 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485017
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 4 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 4 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485016
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 5 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 5 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485015
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS MAX 1 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS MAX 1 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485014
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS MAX 2 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS MAX 2 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485013
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 1 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485012
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 2 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485011
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 3 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 3 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485010
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 4 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 4 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485009
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 5 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 5 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485008
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS MAX 1 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS MAX 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485007
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS MAX 2 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS MAX 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485006
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 1" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 1
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485005
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 2" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 2
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485004
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 3" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 3
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485003
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 4" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 4
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485002
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS 5" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS 5
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485001
+#EXTINF:-1 tvg-id="" tvg-name="TR:>BEIN SPORTS FEED 1 FHD (MAÇ ZAMANI)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>BEIN SPORTS FEED 1 FHD (MAÇ ZAMANI)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/485000
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 1 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 1 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484999
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 2 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 2 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484998
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 3 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 3 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484997
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 4 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 4 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484996
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 5 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 5 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484995
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 6 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 6 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484994
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 7 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 7 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484993
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EXXEN SPORTS 8 FHD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EXXEN SPORTS 8 FHD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484992
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT 1 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484991
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT 2 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484990
+#EXTINF:-1 tvg-id="" tvg-name="TR:>SPOR SMART HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>SPOR SMART HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484989
+#EXTINF:-1 tvg-id="" tvg-name="TR:>SPOR SMART 2 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>SPOR SMART 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484988
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EUROSPORT 1 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EUROSPORT 1 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484987
+#EXTINF:-1 tvg-id="" tvg-name="TR:>EUROSPORT 2 HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>EUROSPORT 2 HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484986
+#EXTINF:-1 tvg-id="" tvg-name="TR:>NBA TV HD" tvg-logo="" group-title="WI INTERNATIONAL",TR:>NBA TV HD
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484985
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT+ 1 HD (MATCH TIME)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT+ 1 HD (MATCH TIME)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484984
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT+ 2 HD (MATCH TIME)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT+ 2 HD (MATCH TIME)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484983
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT+ 3 HD (MATCH TIME)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT+ 3 HD (MATCH TIME)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484982
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT+ 4 HD (MATCH TIME)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT+ 4 HD (MATCH TIME)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484981
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT+ 5 HD (MATCH TIME)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT+ 5 HD (MATCH TIME)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484980
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT+ 6 HD (MATCH TIME)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT+ 6 HD (MATCH TIME)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484979
+#EXTINF:-1 tvg-id="" tvg-name="TR:>S SPORT+ 7 HD (MATCH TIME)" tvg-logo="" group-title="WI INTERNATIONAL",TR:>S SPORT+ 7 HD (MATCH TIME)
+http://fhdtv.club:8080/Jarod/PbbuzdPWqa/484978
